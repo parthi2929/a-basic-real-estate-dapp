@@ -17,3 +17,7 @@ A basic real estate dapp created for edureka blockchain course project
 1. Some events are received multiple times (jquery select, contract events etc)  
 2. After launching Dapp, if new account created in Metamask, dapp may not work properly  
 3. Sometimes contract actions (add or transfer) are not completed.  
+
+**Update 29th Dec 2017:**  
+1. Video tutorial made for this project  
+https://tiny.cc/a-basic-real-estate-dapp
